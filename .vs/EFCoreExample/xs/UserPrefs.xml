@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{4168A244-A1EB-48DA-B831-330C2CAD9285}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20210323105232_AddedPageCount.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="11" Column="94" />
+      <File FileName="DbContext.cs" Line="27" Column="2" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="WeatherForecast.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="DbInitialize.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20210323104747_AddedAuthorColumn.cs" Line="18" Column="15" />
+      <File FileName="Migrations/20210323105232_AddedPageCount.cs" Line="25" Column="33" />
+      <File FileName="Migrations/20210324214121_initial.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20210324214121_initial.Designer.cs" />
+      <File FileName="Migrations/20210324222659_changeName.cs" Line="19" Column="30" />
+      <File FileName="Migrations/20210323104747_AddedAuthorColumn.Designer.cs" />
+      <File FileName="Models/Book.cs" Line="1" Column="1" />
+      <File FileName="Migrations/MyContextModelSnapshot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EFCoreExample" expanded="True">
+            <Node name="EFCoreExample" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="20210323105232_AddedPageCount.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EFCoreExample PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
